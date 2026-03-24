@@ -27,8 +27,8 @@ The paper used a narrative literature review approach to examine how existing HS
 | **Query 1. HSC-related**|	"supply chain" AND (healthcare OR pharma* OR medic*)| 
 | **Query 2. CERS-related**|	resilien* OR disruption OR risk OR sustainabl* OR green OR "closed loop" OR closed-loop OR "circular economy" OR circular*|
 |**Query 3. Modelling-related**| model* OR simulat*
-Total (Query 1 AND Query 2 AND Query 3)	237|
-|Search date: December 2025	|
+Total (Query 1 AND Query 2 AND Query 3) | 237 |
+|Search date: December 2025	
 
 PRISMA compliant workflow
 
