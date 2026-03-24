@@ -38,7 +38,7 @@ Page, M. J., McKenzie, J. E., Bossuyt, P. M., Boutron, I., Hoffmann, T. C., Mulr
 
 |**Inclusion criteria**                     |	**Exclusion criteria**                      
 |-------------------------------|--------------------
-|HSC-related models	Literature reviews      |
+|HSC-related models	|Literature reviews      |
 Incorporating at least one of the CERS concepts |	Pure qualitative models or pure multi criteria decision-making models (MCDMs)|
 |Modelling (mathematical or simulation models)|	Non-English|
 | Including at least one of the CERS concepts|	Inaccessible articles|
