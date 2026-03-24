@@ -18,7 +18,7 @@ The paper used a narrative literature review approach to examine how existing HS
 
 
 
-*Table 1-A: Search strings
+### Table 1-A: Search strings
 
 | **Search queries**	| **Keywords** 
 |-----------------------|----------------------
@@ -28,13 +28,13 @@ The paper used a narrative literature review approach to examine how existing HS
 Total (Query 1 AND Query 2 AND Query 3) | 237 |
 |Search date: December 2025	
 
-*Figure 1-A: PRISMA compliant workflow
+### Figure 1-A: PRISMA compliant workflow
 
 ![alt text](image.png)
 
 Page, M. J., McKenzie, J. E., Bossuyt, P. M., Boutron, I., Hoffmann, T. C., Mulrow, C. D., ... & Moher, D. (2021). The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. bmj, 372.
 
-*Table 2-A: Inclusion/ exclusion criteria
+### Table 2-A: Inclusion/ exclusion criteria
 
 |**Inclusion criteria**                     |	**Exclusion criteria**                      
 |-------------------------------|--------------------
