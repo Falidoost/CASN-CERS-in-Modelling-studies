@@ -8,13 +8,13 @@ The paper used a narrative literature review approach to examine how existing HS
 
 ## Authors
 
-* Fatemeh Alidoost &nbsp;&nbsp; [![ORCID: Alidoost](https://img.shields.io/badge/ORCID-0009-0000-0252-560X-blue)](https://orcid.org/0009-0000-0252-560X)
+* Fatemeh Alidoost ORCID: https://orcid.org/0009-0000-0252-560X
 
-* Navonil Mustafee &nbsp;&nbsp; [![ORCID: Mustafee](https://img.shields.io/badge/ORCID-0000--0002--2204--8924-blue)](https://orcid.org/0000-0002-2204-8924)
+* Navonil Mustafee ORCID: https://orcid.org/0000-0002-2204-8924
 
-* Thomas Monks &nbsp;&nbsp; [![ORCID: Monks](https://img.shields.io/badge/ORCID-0000--0003--2631--4481-blue)](https://orcid.org/0000-0003-2631-4481)
+* Thomas Monks ORCID: https://orcid.org/0000-0003-2631-4481
 
-* Alison Harper &nbsp;&nbsp; [![ORCID: Harper](https://img.shields.io/badge/ORCID-0000--0001--5274--5037-blue)](https://orcid.org/0000-0001-5274-5037)
+* Alison Harper ORCID: https://orcid.org/0000-0001-5274-5037
 
 
 
