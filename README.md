@@ -2,7 +2,7 @@
 
 This repository serves as supplementary material for the paper:
 
->**A Complex Adaptive Supply Network Perspective for Integrating Circular Economy, Resilience, and Sustainability in Healthcare Supply Chain Models**
+>**Integrating Circular Economy, Resilience, and Sustainability in Healthcare Supply Chain Models: A Complex Adaptive Supply Network Perspective**
 
 The paper used a narrative literature review approach to examine how existing HSC modelling studies conceptualise and integrate CERS, and to assess the extent to which these studies reflect CASN properties. 
 
